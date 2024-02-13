@@ -1,8 +1,8 @@
-*{
+* {
     margin: 0;
 }
 
-html{
+html {
     scroll-behavior: smooth;
 }
 
@@ -10,4 +10,22 @@ body {
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     font-style: normal;
+}
+
+.ccard {
+    border-radius: 30px;
+    height: 350px;
+    width: 300px;
+    border: 1px black solid;
+    color: black;
+    box-shadow: 0px 0px 2px 1px #424242;
+
+}
+
+.ccardimage {
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 10px;
+    height: 65px;
+    width: 65px;
+    border: 2px black solid;
 }
